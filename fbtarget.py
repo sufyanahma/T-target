@@ -4,8 +4,8 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by lovehacker     #
-        #    WhatsApp Contact:       03094161457    #
+        #    Facebook BruteForce,by SUfyaN AhmaD    #
+        #    WhatsApp Contact:       03489458276    #
         #                                           #
         #############################################
 
@@ -35,7 +35,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-print '\n###############BlackMafia LoveHacker##############\n'
+print '\n🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥Genious Mr Sufyan🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
